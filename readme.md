@@ -1,5 +1,5 @@
-# Glossary of Acronyms & Definitions 
-_A repo of Anti-Money Laundering (AML), Counter Terrorist Financial (CTF) and Privacy compliance jargon._
+# Glossary of AML & CTF Compliance Acronyms & Definitions 
+_A repo of Anti-Money Laundering (AML) and Counter Terrorist Financial (CTF) compliance jargon._
 
 Greetings AML Nerds, AML Haters and everyone inbetween! We (the team at [Outlier](https://outliercanada.com)) have put together this repo to document, clarify and grow the insane amount of acronyms, definitions and other related jargon that exists. Please feel free to submit Pull Requests for additional definitions where you do, or more importantly don't, know the answer. 
 
