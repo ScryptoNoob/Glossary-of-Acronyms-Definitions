@@ -109,7 +109,7 @@ https://www.acfcs.org/page/certification
 
 Customer Identification Program
 
-United States requirement for know your customer regulated entities need to verify the identity of individuals wishing to conduct financial transactions with them and is a provision of the USA Patriot Act/Bank Secrecy Act(BSA). 
+United States requirement for regulated entities under the  provision of the USA Patriot Act/Bank Secrecy Act(BSA) that need to verify the identity (KYC) of individuals or entities wishing to conduct financial transactions with them. 
 
 https://www.occ.gov/news-issuances/news-releases/2005/nr-occ-2005-42a.pdf
 
