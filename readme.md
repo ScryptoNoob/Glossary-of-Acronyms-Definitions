@@ -121,6 +121,11 @@ Actions taken to detect, deter and prevent terrorist financing from occurring th
 
 Counter Terrorist Financing / Combating the Financing of Terrorism
 
+## Designated categories of offences
+
+The offence of money laundering that is extended to any type of property, regardless of its value, that is directly or indirectly
+associated with           the proceeds of crime. 
+
 ## EFT
 
 Electronic Funds Transfer
@@ -353,6 +358,10 @@ Specially Designated Nationals And Blocked Persons List
 
 https://www.treasury.gov/resource-center/sanctions/sdn-list/pages/default.aspx
 
+## Self-Regulatory Body (SRB)
+
+A body that represents a profession (e.g. lawyers, notaries, other independent legal professionals or accountants), and which is made up of members from the profession and has the role of performing certain supervisory/monitoring functions of standards that are maintained by the professions.  Also known as a Self-Regulatory Organisation (SRO).
+
 ## SEMA
 
 Special Economic Measures Act Sanctions
@@ -369,6 +378,10 @@ In respect of an entity, means (if applicable):
 ## Shell Bank
 
 Means a foreign financial institution that does not have a physical presence in a foreign country.
+
+## SRO
+
+Self-Regulatory Organisation (see Self-regulatory Body)
 
 ## STR
 
