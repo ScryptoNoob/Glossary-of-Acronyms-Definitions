@@ -183,9 +183,9 @@ Canada’s financial intelligence unit and our regulator for AML and CTF.  We su
 
 http://www.fintrac-canafe.gc.ca/intro-eng.asp
 
-## FinCen
+## FinCen 
 
-The Financial Crimes Enforcement Network
+The Financial Crimes Enforcement Network is a bureau of the United States Department of the Treasury that collects and analyzes information about financial transactions in order to combat domestic and international money laundering, terrorist financing, and other financial crimes.
 
 https://www.fincen.gov/
 
