@@ -156,6 +156,17 @@ An electronic funds transfer report is submitted to FINTRAC upon a transmission 
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/transaction-operation/Guide8A/nseft-eng.asp
 
+## F2R
+
+A secure application accessed over the internet that lets reporting entities manually enter and correct reports individually.  The reports that can be submitted are:
+
+     - Suspicious Transaction Reports(STRs)
+     - Large Cash Transaction Reports (LCTRs)
+     - non-SWIFT Electronic Funds Transfer Reports (EFTIs, EFTOs)
+     - Casino Disbursement Reports (CDRs)
+     
+http://www.fintrac-canafe.gc.ca/reporting-declaration/Info/f2r-eng.asp
+
 ## FATF
 
 Financial Action Task Force
