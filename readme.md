@@ -91,9 +91,19 @@ Chief Anti-Money Laundering Officer
 
 ## CAMS
 
-Certified Anti-Money Laundering Specialist Certification designation from ACAMS
+Certified Anti-Money Laundering Specialist Certification designation from ACAMS.
 
 https://www.acams.org/earn-the-aml-certification-gold-standard/
+
+## CDD
+
+Customer Due Diligence - policies, procedures, and controls used to identify individuals or entities that match a baseline for the account activity related to expected transactions.
+
+## CFCS
+
+Certified Financial Crime Specialist designation from ACFCS.
+
+https://www.acfcs.org/page/certification
 
 ## CIP
 
@@ -124,7 +134,11 @@ Counter Terrorist Financing / Combating the Financing of Terrorism
 ## Designated categories of offences
 
 The offence of money laundering that is extended to any type of property, regardless of its value, that is directly or indirectly
-associated with           the proceeds of crime. 
+associated with the proceeds of crime. 
+
+## EDD
+
+Enhanced Due Diligence - additional measures taken in identifying and mitigating the risk posed by higher risk customers.
 
 ## EFT
 
@@ -420,6 +434,10 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/tpdr-eng.as
 ## TPR
 
 Terrorist Property Report
+
+## UBO
+
+Ultimate Beneficial Owner (See Beneficial Owner)
 
 ## Unusual Transaction Report
 
