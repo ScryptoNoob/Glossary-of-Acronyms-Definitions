@@ -33,6 +33,14 @@ Administrative Monetary Penalties
 
 Actions taken to detect, deter and prevent money laundering from occurring through our business.
 
+## Ascertaining Identity
+
+Specifies the methods to identify individuals and confirm the existence of entities as prescribed under the PCMLTFR.  Further information at: http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/Guide11/11-eng.asp
+
+## Agent or Mandatary 
+
+A individual or entity that a regulated entity may rely on to provide services on its behalf including client identification. An agreement is required to ensure the responsibilities are clearly stated.
+
 ## ASTR
 
 Attempted Suspicious Transaction Report
@@ -77,6 +85,18 @@ A business relationship is a relationship established between you, as a reportin
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/brr-eng.asp
 
+## CAMLO
+
+Chief Anti-Money Laundering Officer.
+
+## CIP
+
+Customer Identification Program
+
+United States requirement for know your customer regulated entities need to verify the identity of individuals wishing to conduct financial transactions with them and is a provision of the USA Patriot Act/Bank Secrecy Act(BSA). 
+
+https://www.occ.gov/news-issuances/news-releases/2005/nr-occ-2005-42a.pdf
+
 ## Compliance Officer
 
 The individual you appoint to be responsible for the implementation of your compliance program. Your compliance officer should have the authority and the resources necessary to discharge his or her responsibilities effectively.
@@ -94,6 +114,7 @@ Actions taken to detect, deter and prevent terrorist financing from occurring th
 ## CTF
 
 Counter Terrorist Financing
+
 ## EFT
 
 Electronic Funds Transfer
@@ -129,6 +150,14 @@ http://www.fintrac-canafe.gc.ca/intro-eng.asp
 ## FINTRAC
 
 The Financial Transactions and Reports Analysis Centre of Canada
+
+## HIO
+
+Head of an International Organization
+
+## KYA
+
+Know Your Agent (or Mandatary)
 
 ## KYC
 
@@ -214,6 +243,10 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/omr-eng.asp
 
 Purpose and Intended Nature
 
+## PEP
+
+Politically Exposed Persons
+
 ## PINBR
 
 Purpose and Intended Nature of a Business Relationship
@@ -231,6 +264,10 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/brr-eng.asp
 ## RBA
 
 Risk-based Approach
+
+## RCA
+
+Relatives and Close Associates (of PEP or HIO)
 
 ## Reasonable Grounds to Suspect
 
