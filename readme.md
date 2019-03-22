@@ -39,7 +39,7 @@ Specifies the methods to identify individuals and confirm the existence of entit
 
 ## Agent or Mandatary 
 
-A individual or entity that a regulated entity may rely on to provide services on its behalf including client identification. An agreement is required to ensure the responsibilities are clearly stated.
+A individual or entity that a regulated entity may rely on to provide services on its behalf including client identification. A written agreement is required to ensure the responsibilities are clearly stated.
 
 ## ASTR
 
@@ -87,7 +87,13 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/brr-eng.asp
 
 ## CAMLO
 
-Chief Anti-Money Laundering Officer.
+Chief Anti-Money Laundering Officer
+
+## CAMS
+
+Certified Anti-Money Laundering Specialist Certification designation from ACAMS
+
+https://www.acams.org/earn-the-aml-certification-gold-standard/
 
 ## CIP
 
@@ -111,9 +117,9 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/compliance-conformite/Guide4
 
 Actions taken to detect, deter and prevent terrorist financing from occurring through our business.
 
-## CTF
+## CTF/CFT
 
-Counter Terrorist Financing
+Counter Terrorist Financing / Combating the Financing of Terrorism
 
 ## EFT
 
@@ -147,9 +153,19 @@ Canada’s financial intelligence unit and our regulator for AML and CTF.  We su
 
 http://www.fintrac-canafe.gc.ca/intro-eng.asp
 
+## FinCen
+
+The Financial Crimes Enforcement Network
+
+https://www.fincen.gov/
+
 ## FINTRAC
 
 The Financial Transactions and Reports Analysis Centre of Canada
+
+## FIU
+
+Financial Intelligence Unit
 
 ## HIO
 
@@ -229,6 +245,12 @@ http://www.fintrac-canafe.gc.ca/msb-esm/intro-eng.asp
 
 Money Services Business
 
+## OFAC
+
+Office of Foreign Assets Control (US Department of the Treasury)
+
+https://sanctionssearch.ofac.treas.gov/
+
 ## Ongoing Monitoring
 
 Means monitoring on a periodic basis based on the risk assessment undertaken by a reporting entity of their business relationship with a client for the purpose of:
@@ -284,6 +306,12 @@ Means that you must take steps to collect certain information but it is not mand
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/recordkeeping-document/record/msb-eng.asp
 
+## Record Keeping
+
+Industry specific requirements for record keeping that includes Suspicious Activity Reports, Transaction Monitoring, Large Cash Transaction record, FX transactions, Service Agreements, and KYC information.
+
+http://www.fintrac-canafe.gc.ca/guidance-directives/recordkeeping-document/record/msb-eng.asp
+
 ## Reporting Entity
 
 Reporting entities are regulated by the PCMLTFA and its regulations, and must report certain transactions to the FINTRAC. This includes the following industries:
@@ -314,6 +342,22 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/compliance-conformite/rba/rb
 ## Risk-based Approach
 
 This is different terminology used for a Risk Assessment. They are used interchangeably.
+
+## SAR
+
+Suspicious Activity Report
+
+## SDN
+
+Specially Designated Nationals And Blocked Persons List
+
+https://www.treasury.gov/resource-center/sanctions/sdn-list/pages/default.aspx
+
+## SEMA
+
+Special Economic Measures Act Sanctions
+
+http://www.osfi-bsif.gc.ca/Eng/fi-if/amlc-clrpc/snc/sema-rmes/Pages/default.aspx
 
 ## Senior Officer
 
