@@ -6,7 +6,7 @@ this repo to document, clarify and grow the insane amount of acronyms, definitio
 free to submit Pull Requests for additional definitions where you do, or more importantly don't, know the answer. 
 
 This has been designed with a North American focus, but if you are so inclined to provide European, Asian or Moon related PRs, we 
-can evolve this repo into something really powerful.
+can evolve this repo into something really powerful. Where a definition is followed by a bracket, this specifies the source of the definition E.G. - (GDPR). Where there is no source provided, the information came from PIPEDA. 
 
 ---
 
@@ -19,6 +19,9 @@ personal information.
 
 ## Automatic Dialing-Announcing Devices
 Equipment that store and dial telephone numbers automatically and will deliver a pre-recorded or synthesized voice message.
+
+## Biometric Data (GDPR)
+Personal data resulting from specific technical processing relating to the physical, physiological or behavioural characteristics of a natural person, which allow or confirm the unique identification of that natural person, such as facial images or dactyloscopic data.
 
 ## Breach
 A breach is the loss of, unauthorized access to, or disclosure of, personal information.
@@ -53,11 +56,20 @@ selling, bartering or leasing of donor, membership or other fundraising lists.
 ## Commissioner
 The Privacy Commissioner appointed under [section 53 of the Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/P-21/page-8.html#h-26).
 
+## Consent (GDPR)
+Any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
+
+## Controller (GDPR)
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+
 ## CRTC
 Canadian Radio-television and Telecommunications Commission
 
 ## Data
 Any signs, signals, symbols or concepts that are being prepared or have been prepared in a form suitable for use in a computer system.
+
+## Data Concerning Health (GDPR)
+Personal data related to the physical or mental health of a natural person, including the provision of health care services, which reveal information about his or her health status.
 
 ## Electronic Address
 An address used in connection with the transmission of an electronic message to:
@@ -69,6 +81,18 @@ An address used in connection with the transmission of an electronic message to:
 ## Electronic Meesage
 A message sent by any means of telecommunication, including a text, sound, voice or image message.
 
+## Filing System (GDPR)
+Any structured set of personal data which are accessible according to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis.
+
+## GDPR
+[General Data Protection Regulation](https://gdpr-info.eu/)
+
+## General Data Protection Regulations
+European Union (EU) and European Economic Area (EEA) regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+
+## Genetic Data (GDPR)
+Personal data relating to the inherited or acquired genetic characteristics of a natural person which give unique information about the physiology or the health of that natural person and which result, in particular, from an analysis of a biological sample from the natural person in question.
+
 ## Office of the Privacy Commissioner of Canada
 Body that governs the personal information handling. Their mission is to protect and promote the privacy rights of individuals.
 
@@ -78,6 +102,9 @@ Office of the Privacy Commissioner of Canada
 ## Person
 An individual, partnership, corporation, organization, association, trustee, administrator, executor, liquidator of a succession, 
 receiver or legal representative.
+
+## Personal Data (GDPR)
+Any information relating to an identified or identifiable natural person.
 
 ## Personal Health Information
 With respect to an individual, whether living or deceased, means:
@@ -96,7 +123,19 @@ Federal privacy law for private-sector organizations. It sets out the requiremen
 they hold. 
 
 ## PIPEDA
-Personal Information Protection and Electronic Documents Act
+[Personal Information Protection and Electronic Documents Act](https://laws-lois.justice.gc.ca/eng/acts/P-8.6/index.html)
+
+## Processing (GDPR)
+Any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. 
+
+## Processor (GDPR)
+A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+
+## Profiling (GDPR)
+Any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person.
+
+## Pseudonymisation (GDPR)
+The processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.
 
 ## Real Risk of Significant Harm
 A risk assessment that takes into account the sensitivity of the information and the probability that it will be misused factor when 
@@ -116,6 +155,9 @@ promoting of a product or service. This includes calls made for donations.
 
 ## Telemarketer
 Any person or organization who makes telemarketing calls on their own behalf or for someone else.
+
+## Third Party (GDPR)
+A natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
 
 ## Transmission Data
 Is data that:
