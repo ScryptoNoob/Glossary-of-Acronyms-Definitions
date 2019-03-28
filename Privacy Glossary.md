@@ -10,6 +10,12 @@ can evolve this repo into something really powerful. Where a definition is follo
 
 ---
 
+## Access to Information Request 
+A request for one or more records that is made under the Access to Information Act.
+
+## Access to Information Act 
+Legislation that provides for a right of access to records under the control of a government institution.
+
 ## ADADs
 Automatic Dialing-Announcing Devices
 
@@ -56,6 +62,9 @@ selling, bartering or leasing of donor, membership or other fundraising lists.
 ## Commissioner
 The Privacy Commissioner appointed under [section 53 of the Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/P-21/page-8.html#h-26).
 
+## Consent (PIPEDA)
+A requirement under the fair information principles. Individuals must consent to the collection of their personal data. Consent may be express or implied.
+
 ## Consent (GDPR)
 Any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
 
@@ -71,6 +80,9 @@ Any signs, signals, symbols or concepts that are being prepared or have been pre
 ## Data Concerning Health (GDPR)
 Personal data related to the physical or mental health of a natural person, including the provision of health care services, which reveal information about his or her health status.
 
+## Disclosure
+The provision of access to personal data.
+
 ## Electronic Address
 An address used in connection with the transmission of an electronic message to:
 - an electronic mail account;
@@ -80,6 +92,9 @@ An address used in connection with the transmission of an electronic message to:
 
 ## Electronic Meesage
 A message sent by any means of telecommunication, including a text, sound, voice or image message.
+
+## Fair Information Principles
+The ten guiding privacy principles of PIPEDA that form a significant portion of Canadian privacy law.
 
 ## Filing System (GDPR)
 Any structured set of personal data which are accessible according to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis.
@@ -92,6 +107,9 @@ European Union (EU) and European Economic Area (EEA) regulation on the protectio
 
 ## Genetic Data (GDPR)
 Personal data relating to the inherited or acquired genetic characteristics of a natural person which give unique information about the physiology or the health of that natural person and which result, in particular, from an analysis of a biological sample from the natural person in question.
+
+## Limiting Use
+The idea that personal information should not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law.
 
 ## Office of the Privacy Commissioner of Canada
 Body that governs the personal information handling. Their mission is to protect and promote the privacy rights of individuals.
@@ -122,8 +140,17 @@ Information about an identifiable individual.
 Federal privacy law for private-sector organizations. It sets out the requirements of how businesses must handle personal information 
 they hold. 
 
+## PIA
+Privacy Impact Assessment
+
 ## PIPEDA
 [Personal Information Protection and Electronic Documents Act](https://laws-lois.justice.gc.ca/eng/acts/P-8.6/index.html)
+
+## Privacy Commissioner
+An Officer appointed by the Governor in Council to investigate complaints related to privacy and personal information requests under the Privacy Act, or complaints made under the PIPEDA.
+
+## Privacy Impact Assessment
+A process for identifying and minimizing the privacy risks within the organization.
 
 ## Processing (GDPR)
 Any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. 
@@ -148,6 +175,9 @@ and any copy of any of those things.
 
 ## RROSH
 Real Risk of Significant Harm
+
+## Retention of Records (PIPEDA)
+The idea that organizations should retain personal information only as long as necessary to fulfill the stated purpose or where required by law.
 
 ## Telemarketing
 Refers to the use of telecommunications facilities to make unsolicited telephone calls to consumers for the purpose of selling or 
