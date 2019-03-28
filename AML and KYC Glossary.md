@@ -7,6 +7,14 @@ This has been designed with a North American focus, but if you are so inclined t
 
 ---
 
+## ACAMS
+
+The Association of Certified Anti-Money Laundering Specialists. ACAMS is the largest international membership organization dedicated to advancing the professional knowledge, skills and experience of those dedicated to the detection and prevention of money laundering around the world, and to promote the development and implementation of sound anti-money laundering policies and procedures.
+
+## ACFCS
+
+Association of Certified Financial Crime Specialists
+
 ## ACVM
 
 Autorite's canadiennes en valeurs mobilieres
@@ -16,6 +24,10 @@ Autorite's canadiennes en valeurs mobilieres
 Civil penalties that may be issued to reporting entities by FINTRAC for non-compliance with the PCMLTFA and related regulations.
 
 http://www.fintrac-canafe.gc.ca/pen/2-eng.asp
+
+## Agent or Mandatary 
+
+A individual or entity that a regulated entity may rely on to provide services on its behalf including client identification. A written agreement is required to ensure the responsibilities are clearly stated.
 
 ## AMF
 
@@ -32,6 +44,12 @@ Administrative Monetary Penalties
 ## Anti-Money Laundering
 
 Actions taken to detect, deter and prevent money laundering from occurring through our business.
+
+## Ascertaining Identity
+
+The prescribed methods to identify individuals and confirm the existence of entities.  
+
+http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/Guide11/11-eng.asp
 
 ## ASTR
 
@@ -53,6 +71,12 @@ The Autorité des marchés financiers is the organisation responsible for financ
 
 https://lautorite.qc.ca/en/general-public/
 
+## Bank Secrecy Act (U.S. Specific)
+
+A U.S. law requiring financial institutions in the United States to assist U.S. government agencies in detecting and preventing money laundering.
+
+https://www.ffiec.gov/bsa_aml_infobase/pages_manual/manual_online.htm
+
 ## Beneficial Owner
 
 Beneficial owners are the actual individuals who are the trustees, and known beneficiaries and settlors of a trust, or who directly or indirectly own or control 25% or more of a corporation or an entity other than a corporation or trust, such as a partnership. The ultimate beneficial owners cannot be another corporation or entity; they must be the actual individuals who are the owners or controllers of the entity.
@@ -62,6 +86,10 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/bor-eng.asp
 ## Beneficiary
 
 A beneficiary is the individual or entity who will ultimately benefit from a transaction and be the final recipient of the funds.
+
+## BSA (U.S. Specific)
+
+Bank Secrecy Act
 
 ## Business Relationship
 
@@ -77,6 +105,30 @@ A business relationship is a relationship established between you, as a reportin
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/brr-eng.asp
 
+## CAMLO
+
+Chief Anti-Money Laundering Officer.
+
+## CAMS
+
+Certified Anti-Money Laundering Specialist Certification designation from ACAMS.
+
+https://www.acams.org/earn-the-aml-certification-gold-standard/
+
+## CDD
+
+Customer Due Diligence
+
+## CFCS
+
+Certified Financial Crime Specialist designation from ACFCS.
+
+https://www.acfcs.org/page/certification
+
+## CIP (U.S. Specific)
+
+Customer Identification Program
+
 ## Compliance Officer
 
 The individual you appoint to be responsible for the implementation of your compliance program. Your compliance officer should have the authority and the resources necessary to discharge his or her responsibilities effectively.
@@ -91,9 +143,37 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/compliance-conformite/Guide4
 
 Actions taken to detect, deter and prevent terrorist financing from occurring through our business.
 
-## CTF
+## CTF / CFT
 
-Counter Terrorist Financing
+Counter Terrorist Financing / Combating the Financing of Terrorism
+
+## CTR (U.S. Specific)
+
+Currency Transaction Report
+
+## Currency Transaction Report (U.S. Specific)
+
+A report that is filed with FinCEN for each transaction of more than $USD 10,000 in cash, whether in a single transaction or multiple currency transactions totaling more than $10,000.
+
+## Customer Due Diligence
+
+Policies, procedures, and controls used to identify individuals or entities that match a baseline for the account activity related to expected transactions.
+
+## Customer Identification Program (U.S. Specific)
+
+United States requirement for regulated entities under the  provision of the USA Patriot Act/Bank Secrecy Act(BSA) that need to verify the identity (KYC) of individuals or entities wishing to conduct financial transactions with them. 
+
+https://www.occ.gov/news-issuances/news-releases/2005/nr-occ-2005-42a.pdf
+
+## Designated categories of offences
+
+The offence of money laundering that is extended to any type of property, regardless of its value, that is directly or indirectly
+associated with the proceeds of crime.
+
+## EDD
+
+Enhanced Due Diligence 
+
 ## EFT
 
 Electronic Funds Transfer
@@ -110,6 +190,20 @@ An electronic funds transfer report is submitted to FINTRAC upon a transmission 
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/transaction-operation/Guide8A/nseft-eng.asp
 
+## Enhanced Due Diligence
+
+Additional measures taken in identifying and mitigating the risk posed by higher risk customers.
+
+## F2R
+
+A secure application accessed over the internet that lets reporting entities manually enter and correct reports individually.  The reports that can be submitted are:
+- Suspicious Transaction Reports(STRs)
+- Large Cash Transaction Reports (LCTRs)
+- non-SWIFT Electronic Funds Transfer Reports (EFTIs, EFTOs)
+- Casino Disbursement Reports (CDRs)
+
+http://www.fintrac-canafe.gc.ca/reporting-declaration/Info/f2r-eng.asp
+
 ## FATF
 
 Financial Action Task Force
@@ -120,15 +214,45 @@ The Financial Action Task Force is an intergovernmental organization founded in 
 
 http://www.fatf-gafi.org/
 
+## The Financial Crimes Enforcement Network (U.S. Specific)
+
+A bureau of the United States Department of the Treasury that collects and analyzes information about financial transactions in order to combat domestic and international money laundering, terrorist financing, and other financial crimes.
+
 ## Financial Transactions and Reports Analysis Centre of Canada
 
 Canada’s financial intelligence unit and our regulator for AML and CTF.  We submit reports to FINTRAC and they have the right to examine us to test our compliance with Canadian requirements.  All FINTRAC correspondences and inquiries should be passed immediately to the Compliance Officer.
 
 http://www.fintrac-canafe.gc.ca/intro-eng.asp
 
+## FinCEN (U.S. Specific)
+
+The Financial Crimes Enforcement Network
+
+https://www.fincen.gov/
+
 ## FINTRAC
 
 The Financial Transactions and Reports Analysis Centre of Canada
+
+## FIU
+
+Financial Intelligence Unit
+
+## Head of an International Organization
+
+The head of an international organization is a person who is either:
+- the head of an international organization established by the governments of states; or
+- the head of an institution established by an international organization.
+
+http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/Guide14/14-eng.asp
+
+## HIO
+
+Head of an International Organization
+
+## KYA
+
+Know Your Agent (or Mandatary)
 
 ## KYC
 
@@ -200,6 +324,12 @@ http://www.fintrac-canafe.gc.ca/msb-esm/intro-eng.asp
 
 Money Services Business
 
+## OFAC (U.S. Specific)
+
+Office of Foreign Assets Control (US Department of the Treasury)
+
+https://sanctionssearch.ofac.treas.gov/
+
 ## Ongoing Monitoring
 
 Means monitoring on a periodic basis based on the risk assessment undertaken by a reporting entity of their business relationship with a client for the purpose of:
@@ -210,6 +340,18 @@ Means monitoring on a periodic basis based on the risk assessment undertaken by 
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/omr-eng.asp
 
+## PEP
+
+Politically Exposed Person
+
+## PEDP
+
+Politically Exposed Domestic Person
+
+## PEFP
+
+Politically Exposed Foreign Person
+
 ## PIN
 
 Purpose and Intended Nature
@@ -217,6 +359,18 @@ Purpose and Intended Nature
 ## PINBR
 
 Purpose and Intended Nature of a Business Relationship
+
+## Politically Exposed Person
+
+A person entrusted with a prominent position that typically comes with the opportunity to influence decisions and the ability to control resources.
+
+## Politically Exposed Domestic Person
+
+A PEP who is Canadian.
+
+## Politically Exposed Foreign Person
+
+A PEP who is from a country other than Canada.
 
 ## Production Order
 
@@ -232,6 +386,10 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/brr-eng.asp
 
 Risk-based Approach
 
+## RCA
+
+Relatives and Close Associates (of PEP or HIO)
+
 ## Reasonable Grounds to Suspect
 
 Is a step above simple suspicion and is a conclusion you reach based on an assessment of facts, context, and ML/TF indicators associated with the financial transaction. Your suspicion must be reasonable, meaning, for example, that it cannot be biased or prejudiced.
@@ -244,6 +402,12 @@ Means that you must take steps to collect certain information but it is not mand
 - asking the client,
 - conducting open source searches, or
 - consulting commercially available information.
+
+http://www.fintrac-canafe.gc.ca/guidance-directives/recordkeeping-document/record/msb-eng.asp
+
+## Record Keeping
+
+Industry specific requirements for record keeping that includes Suspicious Activity Reports, Transaction Monitoring, Large Cash Transaction record, FX transactions, Service Agreements, and KYC information.
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/recordkeeping-document/record/msb-eng.asp
 
@@ -278,6 +442,26 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/compliance-conformite/rba/rb
 
 This is different terminology used for a Risk Assessment. They are used interchangeably.
 
+## SAR (U.S. Specific)
+
+Suspicious Activity Report
+
+## SDN (U.S. Specific)
+
+Specially Designated Nationals And Blocked Persons List
+
+https://www.treasury.gov/resource-center/sanctions/sdn-list/pages/default.aspx
+
+## Self-Regulatory Body (SRB)
+
+A body that represents a profession (e.g. lawyers, notaries, other independent legal professionals or accountants), and which is made up of members from the profession and has the role of performing certain supervisory/monitoring functions of standards that are maintained by the professions.  Also known as a Self-Regulatory Organisation (SRO).
+
+## SEMA
+
+Special Economic Measures Act Sanctions
+
+http://www.osfi-bsif.gc.ca/Eng/fi-if/amlc-clrpc/snc/sema-rmes/Pages/default.aspx
+
 ## Senior Officer
 
 In respect of an entity, means (if applicable):
@@ -289,9 +473,17 @@ In respect of an entity, means (if applicable):
 
 Means a foreign financial institution that does not have a physical presence in a foreign country.
 
+## SRO
+
+Self-Regulatory Organisation (see Self-regulatory Body)
+
 ## STR
 
 Suspicious Transaction Report
+
+## Suspicious Activity Report (U.S. Specific)
+
+A report that is submitted to FinCEN when you detect a known or suspected violation of Federal law or a suspicious transaction related to a money laundering activity or a violation of the Bank Secrecy Act.
 
 ## Suspicious Transaction Report
 
@@ -326,6 +518,10 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/tpdr-eng.as
 ## TPR
 
 Terrorist Property Report
+
+## UBO (U.S. Specific)
+
+Ultimate Beneficial Owner (See Beneficial Owner)
 
 ## Unusual Transaction Report
 
