@@ -129,6 +129,10 @@ https://www.acfcs.org/page/certification
 
 Customer Identification Program
 
+## CMP (United States)
+
+Civil Monetary Penalty
+
 ## Compliance Officer (Canada)
 
 The individual you appoint to be responsible for the implementation of your compliance program. Your compliance officer should have the authority and the resources necessary to discharge his or her responsibilities effectively.
@@ -178,6 +182,17 @@ Enhanced Due Diligence
 
 Electronic Funds Transfer
 
+## Effectiveness Review (Canada)
+
+A two-year effectiveness review is an evaluation that is conducted every two years (at a minimum) to test the effectiveness of the elements of your compliance program: policies and procedures, risk assessment and ongoing training program. The review must be started no later than 24 months from the start of the previous review and completed prior to the start of the next review.
+
+
+## Egmont Group (International)
+
+An informal network of 159 Financial Intelligence Units (FIUs)
+
+https://egmontgroup.org/
+
 ## Electronic Funds Transfer (Canada)
 
 An electronic funds transfer (money transfer) means the transmission of instructions for the transfer of funds to or from Canada. An electronic funds transfer does not include the instructions for the transfer of funds from one place in Canada to another in Canada.
@@ -204,9 +219,22 @@ A secure application accessed over the internet that lets reporting entities man
 
 http://www.fintrac-canafe.gc.ca/reporting-declaration/Info/f2r-eng.asp
 
+## FATCA (United States)
+
+See Foreign Account Tax Compliance Act
+
 ## FATF (International)
 
 Financial Action Task Force
+
+## FCCR (International)
+
+Financial Crime Country Risk
+
+
+## FFI (United States)
+
+See Foreign Financial Institution
 
 ## Financial Action Take Force (International)
 
@@ -240,6 +268,18 @@ The Financial Transactions and Reports Analysis Centre of Canada
 ## FIU (International)
 
 Financial Intelligence Unit
+
+## Foreign Account Tax Compliance Act - FATCA (United States)
+
+Generally requires that foreign financial Institutions and certain other non-financial foreign entities report on the foreign assets held by their U.S. account holders or be subject to withholding on withholdable payments. 
+
+https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca
+
+## Foreign Financial Institution (United States)
+
+Means that a Foreign Financial Institution has registered and agreed to adhere to the requirements set forth by FATCA.
+
+https://www.irs.gov/businesses/corporations/irs-ffi-list-faqs
 
 ## Head of an International Organization (Canada)
 
@@ -449,6 +489,10 @@ This is different terminology used for a Risk Assessment. They are used intercha
 
 Suspicious Activity Report
 
+## SCP (United States)
+
+Sanctions Compliance Program
+
 ## SDN (United States)
 
 Specially Designated Nationals And Blocked Persons List
@@ -482,6 +526,10 @@ Self-Regulatory Body
 ## SRO (Canada)
 
 Self-Regulatory Organisation (see Self-regulatory Body)
+
+## SSI List (United States)
+
+Sectoral Sanctions Identification List
 
 ## STR (Canada)
 
@@ -548,3 +596,15 @@ http://www.fintrac-canafe.gc.ca/reporting-declaration/vol/1-eng.asp
 Voluntary Information Report
 
 https://www15.fintrac-canafe.gc.ca/vir-drtv/public/
+
+## Voluntary self-declarations of non-compliance (Canada)
+
+The ultimate goal of the regulatory regime is to enhance compliance, not to impose penalties. FINTRAC strongly encourages reporting entities to voluntarily declare their non-compliance in order to resolve the issues they identify.
+
+http://www.fintrac-canafe.gc.ca/guidance-directives/exam-examen/vsdonc/1-eng.asp
+
+## Wolfsberg Group  (International)
+
+An association of thirteen global banks which aims to develop frameworks and guidance for the management of financial crime risks, particularly with respect to KYC, AML and CTF policies.
+
+https://www.wolfsberg-principles.com/
