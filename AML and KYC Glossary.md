@@ -186,7 +186,6 @@ Electronic Funds Transfer
 
 A two-year effectiveness review is an evaluation that is conducted every two years (at a minimum) to test the effectiveness of the elements of your compliance program: policies and procedures, risk assessment and ongoing training program. The review must be started no later than 24 months from the start of the previous review and completed prior to the start of the next review.
 
-
 ## Egmont Group (International)
 
 An informal network of 159 Financial Intelligence Units (FIUs)
@@ -227,10 +226,13 @@ See Foreign Account Tax Compliance Act
 
 Financial Action Task Force
 
+## FCA (UK)
+
+Financial Conduct Authority
+
 ## FCCR (International)
 
 Financial Crime Country Risk
-
 
 ## FFI (United States)
 
@@ -242,11 +244,18 @@ The Financial Action Task Force is an intergovernmental organization founded in 
 
 http://www.fatf-gafi.org/
 
+## Financial Conduct Authority (UK)
+
+The UK regulator responsible for regulating a sector which plays a critical role in the lives of everyone in the UK and without which the modern economy could not function.
+
+https://www.fca.org.uk/
+
 ## The Financial Crimes Enforcement Network (United States)
 
 A bureau of the United States Department of the Treasury that collects and analyzes information about financial transactions in order to combat domestic and international money laundering, terrorist financing, and other financial crimes.
 
 ## Financial Intelligence Unit (International)
+
 A  central  agency that is  responsible  for  receiving,  analyzing,  and  transmitting  disclosures  on  suspicious  transactions  to  the  competent  authorities. This can be on behalf of a geogrpahic region (Caribbean), a country (Canada) or a Company.
 
 ## Financial Transactions and Reports Analysis Centre of Canada (Canada)
@@ -584,6 +593,19 @@ An internal form that is used to record the details of any transactions (attempt
 ## UTR (Canada)
 
 Unusual Transaction Report 
+
+## Virtual Asset Service Providers (FATF) 
+Virtual asset service provider (VASP) means any natural or legal person who is not covered elsewhere under the Recommendations, and as a business conducts one or more of the following activities or operations for or on behalf of another natural or legal person:
+
+i. exchange between virtual assets and fiat currencies;
+ii. exchange between one or more forms of virtual assets;
+iii. transfer(*) of virtual assets;
+iv. safekeeping and/or administration of virtual assets or instruments enabling control over virtual assets; and
+v. participation in and provision of financial services related to an issuer’s offer and/or sale of a virtual asset.
+(*) In this context of virtual assets, transfer means to conduct a transaction on behalf of another natural or legal person that moves a virtual asset from one virtual asset address or account to another.
+
+https://www.fatf-gafi.org/glossary/u-z/
+
 
 ## Voluntary Information Report (Canada)
 
