@@ -125,6 +125,12 @@ Certified Financial Crime Specialist designation from ACFCS.
 
 https://www.acfcs.org/page/certification
 
+## Check or Cheque Kiting
+
+Is a form of check fraud, involving taking advantage of the float to make use of non-existent funds in a checking or other bank account. In this way, instead of being used as a negotiable instrument, checks are misused as a form of unauthorized credit.
+
+https://en.wikipedia.org/wiki/Check_kiting
+
 ## CIP (United States)
 
 Customer Identification Program
@@ -194,15 +200,23 @@ https://egmontgroup.org/
 
 ## Electronic Funds Transfer (Canada)
 
-An electronic funds transfer (money transfer) means the transmission of instructions for the transfer of funds to or from Canada. An electronic funds transfer does not include the instructions for the transfer of funds from one place in Canada to another in Canada.
+According to FINTRAC, an electronic funds transfer (money transfer) means the transmission of instructions for the transfer of funds to or from Canada. An electronic funds transfer does not include the instructions for the transfer of funds from one place in Canada to another in Canada.
 
-http://www.fintrac-canafe.gc.ca/reporting-declaration/Info/rptEFT-eng.asp
+According to legislation, an electronic funds transfer means the transmission — through any electronic, magnetic or optical device, telephone instrument or computer — of instructions for the transfer of funds, other than the transfer of funds within Canada. In the case of SWIFT messages, only SWIFT MT 103 messages are included.
+
+FINTRAC - http://www.fintrac-canafe.gc.ca/reporting-declaration/Info/rptEFT-eng.asp
+
+PCMLTFR - https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/page-15.html
 
 ## Electronic Funds Transfer Report (Canada)
 
 An electronic funds transfer report is submitted to FINTRAC upon a transmission of instructions for the transfer of CAD 10,000 or more out of or into Canada in a single transaction or in two or more transactions totaling CAD 10,000 or more made within 24 consecutive hours by or on behalf of the same individual or entity.
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/transaction-operation/Guide8A/nseft-eng.asp
+
+## EMT (Canada)
+
+Email Money Transfer
 
 ## Enhanced Due Diligence (Canada)
 
@@ -302,6 +316,18 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/Guide14/14-
 
 Head of an International Organization
 
+## Kiting
+
+Is a form of check fraud, involving taking advantage of the float to make use of non-existent funds in a checking or other bank account. In this way, instead of being used as a negotiable instrument, checks are misused as a form of unauthorized credit.
+
+https://en.wikipedia.org/wiki/Check_kiting
+
+## Know Your Client/Customer (Canada)
+
+Know your customer is the process of a business verifying the identity of its clients and assessing potential risks of illegal intentions for the business relationship.
+
+http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng.asp
+
 ## KYA (Canada)
 
 Know Your Agent (or Mandatary)
@@ -309,12 +335,6 @@ Know Your Agent (or Mandatary)
 ## KYC (International)
 
 Know Your Client/Customer
-
-## Know Your Client/Customer (Canada)
-
-Know your customer is the process of a business verifying the identity of its clients and assessing potential risks of illegal intentions for the business relationship.
-
-http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/1-eng.asp
 
 ## KYM (Canada)
 
@@ -365,6 +385,12 @@ Money Laundering
 The process of taking money obtained by committing a crime and disguising the source to make it appear legitimate.  Under the Criminal Code of Canada, it is illegal to launder money or to knowingly assist in laundering money.  Under the PCMLTFA and Regulations, we must take steps to be sure that our business is not used to launder money and if we suspect that money laundering may be taking place, we must report it.
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/overview-apercu/Guide1/1-eng.asp#s2
+
+## Money Mule (International)
+
+A person who transfers money acquired illegally on behalf of others. Typically, the mule is paid for services with a small part of the money transferred. Money mules are often recruited online for what they think is legitimate employment, not aware that the money they are transferring is the product of crime. The money is transferred from the mule's account to the scam operator, typically in another country.
+
+https://en.wikipedia.org/wiki/Money_mule
 
 ## Money Services Business (Canada)
 
@@ -529,6 +555,12 @@ In respect of an entity, means (if applicable):
 
 Means a foreign financial institution that does not have a physical presence in a foreign country.
 
+## Smurfing or Smurfs (International)
+
+Is a colloquial term ((i)the slang use of “smurf” is purported to have originated to describe Colombian drug cartels’ use of armies of elderly “blue-haired” old ladies(/i)) for a group of individuals who, by breaking up large amounts into smaller transactions, seek to evade identification and/or reporting thresholds. A smurf deposits illegally gained money into bank accounts, keeps a small portion for their troubles and sends the rest to the money launderer.
+
+https://www.investopedia.com/terms/s/smurf.asp
+
 ## SRB (Canada)
 Self-Regulatory Body 
 
@@ -543,6 +575,12 @@ Sectoral Sanctions Identification List
 ## STR (Canada)
 
 Suspicious Transaction Report
+
+## Structuring (International)
+
+Is the practice of executing financial transactions, such as making bank deposits, in a specific pattern, calculated to avoid triggering identification or reporting thresholds. It is worth noting that structuring is illegal in the United States.
+
+https://en.wikipedia.org/wiki/Structuring
 
 ## Suspicious Activity Report (United States)
 
@@ -597,12 +635,13 @@ Unusual Transaction Report
 ## Virtual Asset Service Providers (FATF) 
 Virtual asset service provider (VASP) means any natural or legal person who is not covered elsewhere under the Recommendations, and as a business conducts one or more of the following activities or operations for or on behalf of another natural or legal person:
 
-i. exchange between virtual assets and fiat currencies;
-ii. exchange between one or more forms of virtual assets;
-iii. transfer(*) of virtual assets;
-iv. safekeeping and/or administration of virtual assets or instruments enabling control over virtual assets; and
-v. participation in and provision of financial services related to an issuer’s offer and/or sale of a virtual asset.
-(*) In this context of virtual assets, transfer means to conduct a transaction on behalf of another natural or legal person that moves a virtual asset from one virtual asset address or account to another.
+i. exchange between virtual assets and fiat currencies;<br>
+ii. exchange between one or more forms of virtual assets;<br>
+iii. transfer of virtual assets;<br>
+iv. safekeeping and/or administration of virtual assets or instruments enabling control over virtual assets; and<br>
+v. participation in and provision of financial services related to an issuer’s offer and/or sale of a virtual asset.<br>
+
+In this context of virtual assets, transfer means to conduct a transaction on behalf of another natural or legal person that moves a virtual asset from one virtual asset address or account to another.
 
 https://www.fatf-gafi.org/glossary/u-z/
 
