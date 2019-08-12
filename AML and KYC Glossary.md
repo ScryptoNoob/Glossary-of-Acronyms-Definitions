@@ -240,6 +240,12 @@ See Foreign Account Tax Compliance Act
 
 Financial Action Task Force
 
+## FBAR (United States)
+
+Foreign Bank and Financial Accounts
+
+https://bsaefiling.fincen.treas.gov/NoRegFBARFiler.html
+
 ## FCA (UK)
 
 Financial Conduct Authority
@@ -315,6 +321,12 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/Guide14/14-
 ## HIO (Canada)
 
 Head of an International Organization
+
+## IIROC (Canada)
+
+Investment Industry Regulatory Organization of Canada
+
+https://www.iiroc.ca/Pages/default.aspx
 
 ## Kiting
 
@@ -562,6 +574,7 @@ Is a colloquial term ((i)the slang use of “smurf” is purported to have origi
 https://www.investopedia.com/terms/s/smurf.asp
 
 ## SRB (Canada)
+
 Self-Regulatory Body 
 
 ## SRO (Canada)
