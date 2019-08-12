@@ -302,6 +302,8 @@ Financial Intelligence Unit
 
 Every year, under the law known as the Bank Secrecy Act, you must report certain foreign financial accounts, such as bank accounts, brokerage accounts and mutual funds, to the Treasury Department and keep certain records of those accounts. You report the accounts by filing a Report of Foreign Bank and Financial Accounts (FBAR) on FinCEN Form 114.
 
+https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar
+
 ## Foreign Account Tax Compliance Act - FATCA (United States)
 
 Generally requires that foreign financial Institutions and certain other non-financial foreign entities report on the foreign assets held by their U.S. account holders or be subject to withholding on withholdable payments. 
@@ -335,6 +337,8 @@ https://www.iiroc.ca/Pages/default.aspx
 ## Investment Industry Regulatory Organization of Canada (Canada)
 
 Is a non-profit, national self-regulatory organization. Established through the merger of the Investment Dealers Association of Canada and Market Regulation Services Inc. on June 1, 2008, IIROC oversees all investment dealers and trading activity on debt and equity markets in Canada.
+
+https://www.iiroc.ca/about/Pages/default.aspx
 
 ## Kiting
 
