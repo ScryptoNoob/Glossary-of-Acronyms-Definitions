@@ -469,6 +469,10 @@ Means monitoring on a periodic basis based on the risk assessment undertaken by 
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/omr-eng.asp
 
+## Ontario Secucrities Commission (Canada)
+
+Ontario Secucrities Commission (OSC) - the OSC administers and enforces compliance with the provisions of the Securities Act (Ontario) and the Commodity Futures Act (Ontario).
+
 ## PEP (Canada)
 
 Politically Exposed Person
