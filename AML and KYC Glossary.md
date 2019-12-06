@@ -575,6 +575,10 @@ This is different terminology used for a Risk Assessment. They are used intercha
 
 Suspicious Activity Report
 
+## SCA (EU) 
+
+Strong customer authentication
+
 ## SCP (United States)
 
 Sanctions Compliance Program
@@ -623,6 +627,10 @@ Self-Regulatory Organisation (see Self-regulatory Body)
 ## SSI List (United States)
 
 Sectoral Sanctions Identification List
+
+## Strong customer authentication (EU) 
+
+Is a requirement of the EU Revised Directive on Payment Services (PSD2) on payment service providers within the European Economic Area.
 
 ## STR (Canada)
 
