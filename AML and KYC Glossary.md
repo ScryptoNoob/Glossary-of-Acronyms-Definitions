@@ -115,6 +115,10 @@ Certified Anti-Money Laundering Specialist Certification designation from ACAMS.
 
 https://www.acams.org/earn-the-aml-certification-gold-standard/
 
+## Canadian Securities Exchange (Canada)
+
+https://thecse.com/
+
 ## CDD (Canada)
 
 Customer Due Diligence
@@ -152,6 +156,10 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/compliance-conformite/Guide4
 ## Counter Terrorist Financing (Canada)
 
 Actions taken to detect, deter and prevent terrorist financing from occurring through our business.
+
+## CSE (Canada)
+
+See Canadian Securities Exchange 
 
 ## CTF / CFT (Canada)
 
@@ -290,13 +298,28 @@ The Financial Crimes Enforcement Network
 
 https://www.fincen.gov/
 
+## Financial Industry Regulatory Authority (United States)
+
+Dedicated to protecting investors and safeguarding market integrity in a manner that facilitates vibrant capital markets.
+
+https://www.finra.org/
+
+
 ## FINTRAC (Canada)
 
 The Financial Transactions and Reports Analysis Centre of Canada
 
+## FINRA (United States)
+
+See Financial Industry Regulatory Authority
+
 ## FIU (International)
 
 Financial Intelligence Unit
+
+## FOMO (International)
+
+Fear Of Missing Out - anxiety that an exciting or interesting event may currently be happening elsewhere, often aroused by posts seen on a social media website.
 
 ## Foreign Bank and Financial Accounts (FBAR) (United States)
 
@@ -315,6 +338,10 @@ https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-f
 Means that a Foreign Financial Institution has registered and agreed to adhere to the requirements set forth by FATCA.
 
 https://www.irs.gov/businesses/corporations/irs-ffi-list-faqs
+
+## FUD (International)
+
+Fear, Uncertainty, and Doubt - usually evoked intentionally in order to put a competitor at a disadvantage.
 
 ## Head of an International Organization (Canada)
 
@@ -442,6 +469,10 @@ Means monitoring on a periodic basis based on the risk assessment undertaken by 
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/omr-eng.asp
 
+## Ontario Secucrities Commission (Canada)
+
+Ontario Secucrities Commission (OSC) - the OSC administers and enforces compliance with the provisions of the Securities Act (Ontario) and the Commodity Futures Act (Ontario).
+
 ## PEP (Canada)
 
 Politically Exposed Person
@@ -548,6 +579,10 @@ This is different terminology used for a Risk Assessment. They are used intercha
 
 Suspicious Activity Report
 
+## SCA (EU) 
+
+Strong customer authentication
+
 ## SCP (United States)
 
 Sanctions Compliance Program
@@ -596,6 +631,10 @@ Self-Regulatory Organisation (see Self-regulatory Body)
 ## SSI List (United States)
 
 Sectoral Sanctions Identification List
+
+## Strong customer authentication (EU) 
+
+Is a requirement of the EU Revised Directive on Payment Services (PSD2) on payment service providers within the European Economic Area.
 
 ## STR (Canada)
 
