@@ -139,6 +139,10 @@ https://en.wikipedia.org/wiki/Check_kiting
 
 Customer Identification Program
 
+## Client Information Record (Canada)
+
+This is a KYC record for a customer that is an entity or organization.
+
 ## CMP (United States)
 
 Civil Monetary Penalty
