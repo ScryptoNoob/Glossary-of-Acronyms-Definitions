@@ -105,6 +105,12 @@ A business relationship is a relationship established between you, as a reportin
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/brr-eng.asp
 
+## CAFC (Canada)
+
+See Canadian Anti-Fraud Centre 
+
+https://www.antifraudcentre-centreantifraude.ca/
+
 ## CAMLO (Canada)
 
 Chief Anti-Money Laundering Officer.
@@ -114,6 +120,12 @@ Chief Anti-Money Laundering Officer.
 Certified Anti-Money Laundering Specialist Certification designation from ACAMS.
 
 https://www.acams.org/earn-the-aml-certification-gold-standard/
+
+## Canadian Anti-Fraud Centre (Canada)
+
+The Canadian Anti-Fraud Centre collects information on fraud and identity theft.They provide information on past and current scams affecting Canadians. If you think you're a victim of fraud, report it!
+
+https://www.antifraudcentre-centreantifraude.ca/
 
 ## Canadian Securities Exchange (Canada)
 
