@@ -25,6 +25,10 @@ Civil penalties that may be issued to reporting entities by FINTRAC for non-comp
 
 http://www.fintrac-canafe.gc.ca/pen/2-eng.asp
 
+## Affiliate (Canada)
+
+An entity is affiliated with another financial entity (Bank, Credit Union, Securities Dealer) if one of them is wholly owned by the other, if both are wholly owned by the same entity or if their financial statements are consolidated. NOTE: This does not apply to an MSB or DPMS
+
 ## Agent or Mandatary (Canada)
 
 A individual or entity that a regulated entity may rely on to provide services on its behalf including client identification. A written agreement is required to ensure the responsibilities are clearly stated.
@@ -45,6 +49,10 @@ Administrative Monetary Penalties
 
 Actions taken to detect, deter and prevent money laundering from occurring through our business.
 
+## As soon as practicable (Canada)
+
+A time period that falls in-between immediately and as soon as possible within which a suspicious transaction report (STR) be submitted to FINTRAC. In this context, the report must be completed promptly, taking into account the facts and circumstances of the situation. While some amount of delay is permitted, it must have a reasonable explanation. The completion and submission of the report should take priority over other tasks.
+
 ## Ascertaining Identity (Canada)
 
 The prescribed methods to identify individuals and confirm the existence of entities.  
@@ -64,6 +72,10 @@ Anti-Terrorist Financing (this means the same thing as Counter Terrorist Financi
 Occurs when an individual initiates a transaction and it does not result in the movement of funds or purchase of an asset because the transaction is not completed. For example, a potential client walks away from conducting a $10,000 cash deposit because they do not want to provide their identification.
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/transaction-operation/Guide2/2-eng.asp
+
+## Authentic (Canada)
+
+In respect of a government-issued photo identification document that is used to verify identity, is genuine and has the character of an original, credible, and reliable document issued by the competent authority (federal, provincial, territorial government).
 
 ## Autorité des marchés financiers (Canada)
 
@@ -151,6 +163,10 @@ https://en.wikipedia.org/wiki/Check_kiting
 
 Customer Identification Program
 
+## Clarification request (Canada)
+
+A clarification request is a method used to communicate with money services businesses when FINTRAC needs more information about their registration form. This request is usually sent by email.
+
 ## Client Information Record (Canada)
 
 This is a KYC record for a customer that is an entity or organization.
@@ -168,6 +184,10 @@ The individual you appoint to be responsible for the implementation of your comp
 All elements that you, as a reporting entity, are legally required to have under the PCMLTFA and associated Regulations to ensure that you meet all of your reporting, record keeping, client identification, and know-your-client requirements.
 
 http://www.fintrac-canafe.gc.ca/guidance-directives/compliance-conformite/Guide4/4-eng.asp
+
+## Context
+
+Clarifies a set of circumstances or provides an explanation of a situation or financial transaction that can be understood and assessed. 
 
 ## Counter Terrorist Financing (Canada)
 
@@ -189,6 +209,10 @@ Currency Transaction Report
 
 A report that is filed with FinCEN for each transaction of more than $USD 10,000 in cash, whether in a single transaction or multiple currency transactions totaling more than $10,000.
 
+## Current
+
+In respect of a document or source of information that is used to verify identity, is up to date, and, in the case of a government-issued photo identification document, must not have been expired when the ID was verified.
+
 ## Customer Due Diligence (Canada)
 
 Policies, procedures, and controls used to identify individuals or entities that match a baseline for the account activity related to expected transactions.
@@ -198,6 +222,10 @@ Policies, procedures, and controls used to identify individuals or entities that
 United States requirement for regulated entities under the  provision of the USA Patriot Act/Bank Secrecy Act(BSA) that need to verify the identity (KYC) of individuals or entities wishing to conduct financial transactions with them. 
 
 https://www.occ.gov/news-issuances/news-releases/2005/nr-occ-2005-42a.pdf
+
+## Directing services
+
+With regrds to a foreign money services business (FMSB), the services offered by the person or entity take into consideration a Canadian audience (for example, needs, customs, wealth, laws, etc.).
 
 ## Designated categories of offences (Canada)
 
@@ -255,6 +283,10 @@ A secure application accessed over the internet that lets reporting entities man
 - Casino Disbursement Reports (CDRs)
 
 http://www.fintrac-canafe.gc.ca/reporting-declaration/Info/f2r-eng.asp
+
+## Facts
+
+Actual events, actions, occurrences or elements that exist or are known to have happened or existed. Facts are not opinions. For example, facts surrounding a transaction or multiple transactions could include the date, time, location, amount or type of transaction or could include the account details, particular business lines, or the client’s financial history.
 
 ## FATCA (United States)
 
@@ -354,6 +386,15 @@ https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-f
 Means that a Foreign Financial Institution has registered and agreed to adhere to the requirements set forth by FATCA.
 
 https://www.irs.gov/businesses/corporations/irs-ffi-list-faqs
+
+## Foreign Money Services Business (FMSB) (Canada)
+
+You are considered an FMSB if #all of the following criteria apply:
+
+- You are engaged in the business of providing at least one money services business (MSB) service;
+- You do not have a place of business in Canada;
+- You direct your MSB services at persons or entities in Canada; and
+- You provide these services to clients in Canada.
 
 ## FUD (International)
 
@@ -711,6 +752,10 @@ An internal form that is used to record the details of any transactions (attempt
 ## UTR (Canada)
 
 Unusual Transaction Report 
+
+## Valid (Canada)
+
+In respect of a document or information that is used to verify identity, appears legitimate or authentic and does not appear to have been altered or had any information redacted. The information must also be valid according to the issuer, for example if a passport is invalid because of a name change, it is not valid for FINTRAC purposes.
 
 ## Virtual Asset Service Providers (FATF) 
 Virtual asset service provider (VASP) means any natural or legal person who is not covered elsewhere under the Recommendations, and as a business conducts one or more of the following activities or operations for or on behalf of another natural or legal person:
