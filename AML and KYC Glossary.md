@@ -223,6 +223,12 @@ United States requirement for regulated entities under the  provision of the USA
 
 https://www.occ.gov/news-issuances/news-releases/2005/nr-occ-2005-42a.pdf
 
+## CVC (US)
+
+Convertible Virtual Currencies - as defined by the US regulator FinCen in a guidance release May 9, 2020
+
+https://www.fincen.gov/sites/default/files/2019-05/FinCEN%20Guidance%20CVC%20FINAL%20508.pdf
+
 ## Directing services
 
 With regrds to a foreign money services business (FMSB), the services offered by the person or entity take into consideration a Canadian audience (for example, needs, customs, wealth, laws, etc.).
