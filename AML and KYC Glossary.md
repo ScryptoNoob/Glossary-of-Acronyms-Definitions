@@ -223,7 +223,7 @@ United States requirement for regulated entities under the  provision of the USA
 
 https://www.occ.gov/news-issuances/news-releases/2005/nr-occ-2005-42a.pdf
 
-## CVC (US)
+## CVC (United States)
 
 Convertible Virtual Currencies - as defined by the US regulator FinCen in a guidance release May 9, 2020
 
