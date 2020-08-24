@@ -143,6 +143,10 @@ https://www.antifraudcentre-centreantifraude.ca/
 
 https://thecse.com/
 
+## CBDC - Central Bank Issued Digital Currency (International)
+
+Is the digital form of fiat money (a currency established as money by government regulation, monetary authority or law) - also called digital fiat currency or digital base money.
+
 ## CDD (Canada)
 
 Customer Due Diligence
