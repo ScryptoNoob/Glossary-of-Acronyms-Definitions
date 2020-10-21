@@ -45,6 +45,10 @@ Anti-Money Laundering
 
 Administrative Monetary Penalties
 
+## ANPRM (International)
+
+Advance Notice of Proposed Rule Making - An ANPRM is a published notice in the Federal Register used by the agency to test out a proposal or solicit ideas before it drafts its Notice of Proposed Rulemaking. An agency is not required to publish an ANPRM but may choose to do so.
+
 ## Anti-Money Laundering (International)
 
 Actions taken to detect, deter and prevent money laundering from occurring through our business.
@@ -417,6 +421,12 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/Guide14/14-
 ## HIO (Canada)
 
 Head of an International Organization
+
+## ICIJ (International)
+
+International Consortium of Investigative Journalists 
+
+https://www.icij.org/
 
 ## IIROC (Canada)
 
