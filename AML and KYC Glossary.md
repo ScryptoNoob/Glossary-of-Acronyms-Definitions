@@ -432,8 +432,6 @@ https://www.icij.org/
 
 Investment Industry Regulatory Organization of Canada
 
-https://www.iiroc.ca/Pages/default.aspx
-
 ## Investment Industry Regulatory Organization of Canada (Canada)
 
 Is a non-profit, national self-regulatory organization. Established through the merger of the Investment Dealers Association of Canada and Market Regulation Services Inc. on June 1, 2008, IIROC oversees all investment dealers and trading activity on debt and equity markets in Canada.
@@ -526,6 +524,12 @@ http://www.fintrac-canafe.gc.ca/msb-esm/intro-eng.asp
 
 Money Services Business
 
+## Office of the Comptroller of the Currency (US)
+
+The Office of the Comptroller of the Currency (OCC) is an independent bureau of the U.S. Department of the Treasury. The OCC charters, regulates, and supervises all national banks, federal savings associations, and federal branches and agencies of foreign banks. 
+
+https://www.occ.treas.gov/
+
 ## OFAC (United States)
 
 Office of Foreign Assets Control (US Department of the Treasury)
@@ -544,7 +548,9 @@ http://www.fintrac-canafe.gc.ca/guidance-directives/client-clientele/omr-eng.asp
 
 ## Ontario Secucrities Commission (Canada)
 
-Ontario Secucrities Commission (OSC) - the OSC administers and enforces compliance with the provisions of the Securities Act (Ontario) and the Commodity Futures Act (Ontario).
+Ontario Secucrities Commission (OSC) administers and enforces compliance with the provisions of the Securities Act (Ontario) and the Commodity Futures Act (Ontario).
+
+https://www.osc.gov.on.ca/
 
 ## PEP (Canada)
 
@@ -561,6 +567,10 @@ Politically Exposed Foreign Person
 ## PIN (Canada)
 
 Purpose and Intended Nature
+
+## PII (International)
+
+Personal Identifiable Information - Any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
 
 ## PINBR (Canada)
 
