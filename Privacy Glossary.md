@@ -80,6 +80,12 @@ Any signs, signals, symbols or concepts that are being prepared or have been pre
 ## Data Concerning Health (GDPR)
 Personal data related to the physical or mental health of a natural person, including the provision of health care services, which reveal information about his or her health status.
 
+## Data Controller or Data Processor of Major Importance (DCPMI) (NDP Act-GAID 2025)
+A data controller or data processor that meets the criteria for designation as a data controller or data processor of major importance under the Nigeria Data Protection Act and the General Application and Implementation Directive.
+
+## Data Protection Compliance Organisation (DPCO) (NDP Act)
+An entity licensed by the Nigeria Data Protection Commission to provide services including data protection training, auditing, consulting and other services aimed at ensuring compliance with the NDP Act and applicable data protection laws.
+
 ## Disclosure
 The provision of access to personal data.
 
@@ -98,6 +104,9 @@ The ten guiding privacy principles of PIPEDA that form a significant portion o
 
 ## Filing System (GDPR)
 Any structured set of personal data which are accessible according to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis.
+
+## General Application and Implementation Directive (GAID) (NDP Act-GAID 2025)
+A directive issued by the Nigeria Data Protection Commission to provide practical guidance on the implementation of the Nigeria Data Protection Act, 2023.
 
 ## GDPR
 [General Data Protection Regulation](https://gdpr-info.eu/)
@@ -196,3 +205,9 @@ Is data that:
 or maintain a communication, or is generated during the creation, transmission or reception of a communication and identifies or 
 purports to identify the type, direction, date, time, duration, size, origin, destination or termination of the communication; and
 - does not reveal the substance, meaning or purpose of the communication.
+
+## Nigeria Data Protection Act (NDP Act) (2023)
+Nigeria's principal legislation governing the processing of personal data and the protection of data subjects' rights in Nigeria.
+
+## Nigeria Data Protection Commission (NDPC) (NDP Act)
+Nigeria's independent data protection authority established under the Nigeria Data Protection Act, 2023, with responsibility for overseeing the implementation of the Act and supervising data controllers and data processors.
