@@ -122,6 +122,7 @@ The idea that personal information should not be used or disclosed for purpose
 
 ## Nigeria Data Protection Act (NDP Act) (2023)
 [Nigeria Data Protection Act (NDP 2023)](https://cert.gov.ng/ngcert/resources/Nigeria_Data_Protection_Act_2023.pdf) 
+
 Nigeria's principal legislation governing the processing of personal data and the protection of data subjects' rights in Nigeria.
 
 ## Nigeria Data Protection Commission (NDPC) (NDP Act)
