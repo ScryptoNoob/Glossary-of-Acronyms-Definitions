@@ -120,6 +120,12 @@ Personal data relating to the inherited or acquired genetic characteristics of a
 ## Limiting Use
 The idea that personal information should not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law.
 
+## Nigeria Data Protection Act (NDP Act) (2023)
+Nigeria's principal legislation governing the processing of personal data and the protection of data subjects' rights in Nigeria.
+
+## Nigeria Data Protection Commission (NDPC) (NDP Act)
+Nigeria's independent data protection authority established under the Nigeria Data Protection Act, 2023, with responsibility for overseeing the implementation of the Act and supervising data controllers and data processors.
+
 ## Office of the Privacy Commissioner of Canada
 Body that governs the personal information handling. Their mission is to protect and promote the privacy rights of individuals.
 
@@ -205,9 +211,3 @@ Is data that:
 or maintain a communication, or is generated during the creation, transmission or reception of a communication and identifies or 
 purports to identify the type, direction, date, time, duration, size, origin, destination or termination of the communication; and
 - does not reveal the substance, meaning or purpose of the communication.
-
-## Nigeria Data Protection Act (NDP Act) (2023)
-Nigeria's principal legislation governing the processing of personal data and the protection of data subjects' rights in Nigeria.
-
-## Nigeria Data Protection Commission (NDPC) (NDP Act)
-Nigeria's independent data protection authority established under the Nigeria Data Protection Act, 2023, with responsibility for overseeing the implementation of the Act and supervising data controllers and data processors.
